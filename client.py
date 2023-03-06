@@ -10,7 +10,7 @@ class Client(object):
 
     def __init__(self):
         # self.serverHost = '192.168.1.9'
-        self.serverHost = 'localhost'
+        self.serverHost = '10.28.161.130'
         self.serverPort = 9999
         self.socket = None
 
