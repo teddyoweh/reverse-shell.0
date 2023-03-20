@@ -1,0 +1,23 @@
+2023-03-18 05:32:12,918: Client Started.
+2023-03-18 05:36:48,532: Client Started.
+2023-03-18 05:36:51,595: ConnectionResetError: 54 (line 203)
+2023-03-18 05:36:58,068: ConnectionResetError: 54 (line 203)
+2023-03-18 05:37:15,200: ConnectionResetError: 54 (line 203)
+2023-03-18 05:37:23,914: ConnectionResetError: 54 (line 203)
+2023-03-18 05:37:50,629: Capturing Webcam
+2023-03-18 05:37:58,385: WebcamCaptureError
+2023-03-18 05:38:10,671: Capturing Webcam
+2023-03-18 05:38:12,771: WebcamCaptureError
+2023-03-18 05:38:24,914: Capturing Webcam
+2023-03-18 05:38:27,027: WebcamCaptureError
+2023-03-18 05:38:34,070: Capturing Webcam
+2023-03-18 05:38:36,205: WebcamCaptureError
+2023-03-18 05:38:48,304: Capturing Webcam
+2023-03-18 05:38:50,408: WebcamCaptureError
+2023-03-18 05:39:57,320: Taking Screenshot
+2023-03-18 05:40:15,708: Taking Screenshot
+2023-03-18 05:41:10,088: Started Keylogger
+2023-03-18 05:41:10,202: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2023-03-18 05:41:23,982: Stopped Keylogger
+2023-03-18 05:42:13,715: Downloading "logs" from log.log
+2023-03-18 05:44:09,982: Taking Screenshot
