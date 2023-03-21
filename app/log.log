@@ -21,3 +21,7 @@
 2023-03-18 05:41:23,982: Stopped Keylogger
 2023-03-18 05:42:13,715: Downloading "logs" from log.log
 2023-03-18 05:44:09,982: Taking Screenshot
+2023-03-20 13:44:13,763: Client Started.
+2023-03-20 13:44:13,878: ConnectionResetError: 54 (line 203)
+2023-03-20 13:44:52,615: Taking Screenshot
+2023-03-20 13:45:22,755: Capturing Webcam
