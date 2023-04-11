@@ -1,0 +1,18 @@
+2023-03-21 00:13:33,255: Client Started.
+2023-03-21 00:13:45,484: Taking Screenshot
+2023-03-21 00:14:30,040: Client Started.
+2023-03-21 00:14:55,405: Capturing Webcam
+2023-03-21 00:14:55,548: WebcamCaptureError
+2023-03-21 00:15:06,775: Capturing Webcam
+2023-03-21 00:15:10,229: WebcamCaptureError
+2023-03-21 00:15:14,757: Capturing Webcam
+2023-03-21 00:15:32,785: Capturing Webcam
+2023-03-21 00:16:21,020: Taking Screenshot
+2023-03-21 00:16:28,183: Capturing Webcam
+2023-03-21 00:16:30,361: WebcamCaptureError
+2023-03-21 00:16:47,022: Capturing Webcam
+2023-03-21 00:32:21,976: Capturing Webcam
+2023-03-21 00:32:24,067: WebcamCaptureError
+2023-03-21 00:33:55,672: Started Keylogger
+2023-03-21 00:33:55,746: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2023-03-21 00:35:05,405: Stopped Keylogger
