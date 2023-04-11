@@ -12,7 +12,7 @@ from typing import Tuple, Union
 from queue import Empty, Queue, Full
 
 from cryptography.fernet import Fernet
-HOST_SERVER = '10.46.168.55'
+HOST_SERVER = '10.15.169.179'
 if platform.system() != 'Windows':
     # readline allows movement with arrowkeys on linux
     try:
